@@ -24,7 +24,7 @@ namespace zadanie_egzaminacyjne
 
         private void button_haslo_Click(object sender, RoutedEventArgs e)
         {
-            
+            //
         }
     }
 }
