@@ -28,7 +28,7 @@
         </ComboBox>
         <TextBox x:Name="text2" HorizontalAlignment="Left" Margin="126,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="text1" HorizontalAlignment="Left" Margin="126,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Button x:Name="button_zatwierdz" Content="Zatwiedź" HorizontalAlignment="Left" Margin="298,290,0,0" VerticalAlignment="Top" Background="SteelBlue" Height="31" Width="177"/>
+        <Button x:Name="button_zatwierdz" Content="Zatwiedź" HorizontalAlignment="Left" Margin="298,290,0,0" VerticalAlignment="Top" Background="SteelBlue" Height="31" Width="177" Click="button_zatwierdz_Click"/>
         <Label Content="ile znakow?" HorizontalAlignment="Left" Margin="502,38,0,0" VerticalAlignment="Top"/>
         <CheckBox x:Name="male_duze_litert_check" Content="małe i wielkie litery" HorizontalAlignment="Left" Margin="502,79,0,0" VerticalAlignment="Top" IsChecked="True"/>
         <CheckBox x:Name="cyfry_check" Content="cyfry" HorizontalAlignment="Left" Margin="502,128,0,0" VerticalAlignment="Top"/>
